@@ -22,6 +22,6 @@ For this task I used
 
 5. Inside app.py change *host*, *user*, *passw*, *database* to your server info.
 
-6. Download REST API Client In my case -> insomnia -> https://insomnia.rest/      Otherwise you with live server you can only see GET method.
+6. Download REST API Client In my case -> insomnia -> https://insomnia.rest/      Otherwise with live server you can only see GET method.
 
 Then you are pretty much set and ready to test, good luck! :)
